@@ -1,8 +1,11 @@
 # Hands-on 2 MLOps: Model Experimentation & Tracking
 
 Nama: Nadia Faraj Alyafaatin Simbolon
+
 NIM: 123450092
+
 Kelas: RC
+
 Mata kuliah: Machine Learning Operations (MLOps), Pertemuan 6
 
 ## Isi repositori
